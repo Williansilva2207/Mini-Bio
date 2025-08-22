@@ -5,6 +5,7 @@
   --foreground: #171717;
   --red: #cf1500;
   --black: #000000; 
+  --white: #ffffff;
 }
 
 @theme inline {
@@ -33,7 +34,7 @@ body {
   text-align: center;
 }
 .information{
-  color: var(--black);
+  color: var(--white);
   text-align: center; 
 }
 .img-profissional{
